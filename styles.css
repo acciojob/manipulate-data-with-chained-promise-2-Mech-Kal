@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#output {
+  font-size: 24px;
+  color: #222;
+  background: #e9ecef;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
